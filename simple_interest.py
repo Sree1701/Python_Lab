@@ -11,3 +11,7 @@ age=int(input("Enter your age:"))
 is_senior_citizen = age>=60
 interest = calculate_simple_interest(principle,time,is_senior_citizen)
 print(f"\nSimple Interest = {interest:.2f}")
+<<<<<<< HEAD
+=======
+
+>>>>>>> bff5627974ac07c8a1ff4e7bcc5a041663087ef2

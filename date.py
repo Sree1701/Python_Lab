@@ -9,3 +9,7 @@ print("e)Weekday of the week:",now.strftime("%A"))
 print("f)Day of year:",now.strftime("%j"))
 print("g)Day of month:",now.day)
 print("h)Day of week:",time.strftime("%W"))
+<<<<<<< HEAD
+=======
+
+>>>>>>> bff5627974ac07c8a1ff4e7bcc5a041663087ef2

@@ -6,3 +6,7 @@ while i<=n:
         print(i,end=" ")
     i+=1
 print()
+<<<<<<< HEAD
+=======
+N
+>>>>>>> bff5627974ac07c8a1ff4e7bcc5a041663087ef2

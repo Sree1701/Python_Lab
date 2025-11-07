@@ -3,3 +3,7 @@ for i in range(1,n+1):
     print("*" * i)
 for i in range(n-1,0,-1):
     print("*" * i)
+<<<<<<< HEAD
+=======
+
+>>>>>>> bff5627974ac07c8a1ff4e7bcc5a041663087ef2

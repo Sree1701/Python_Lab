@@ -11,3 +11,7 @@ if result:
     print("The First ",n,"characters are the same.")
 else:
     print("The First ",n,"characters are different.")
+<<<<<<< HEAD
+=======
+
+>>>>>>> bff5627974ac07c8a1ff4e7bcc5a041663087ef2
